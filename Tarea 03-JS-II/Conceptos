@@ -1,0 +1,10 @@
+`for`: nos sirve para resumir muchas instrucciones repetitivas en una sola instrucción para que se repita hasta el límite que le pongamos. Esta única instrucción tiene 3 partes, la primera es donde decimos desde donde va a iniciar la orden, la segunda parte es donde colocamos donde va a parar de ejecutar esa instrucción, y la tercera parte es donde colocamos como queremos que se vaya incrementando el valor que elegimos en la primera parte. 
+
+`&&`: Es un operador lógico que significa (AND) y sirve para hacer comparaciones entre operandos, su resultado solamente es TRUE si todos los operandos son TRUE, cada operando sería una condición, por ejemplo un resultado TRUE sería ( 4 < 5 && 10 >== 8 ).
+
+`||`: Es un operador lógico que significa (OR) y sirve para hacer comparaciones entre operandos, su resultado solamente es TRUE si alguno de los operandos es TRUE, cada operando sería una condición, por ejemplo un resultado TRUE sería ( 4 > 5 || 10 >== 8 ).
+
+`!`: Es un operador lógico que significa (NOT) y se utiliza para obtener el valor contrario al valor de la expresión de la variable, por ejemplo un resultado TRUE sería: 
+// var color = azul
+// console.log(!(color === rojo))
+// True

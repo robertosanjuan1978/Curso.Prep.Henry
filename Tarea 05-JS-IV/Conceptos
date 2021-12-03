@@ -1,0 +1,6 @@
+	* Objetos: Es una colección de datos (propiedades) de un tema u objeto central, en donde cada dato de ese tema 
+    tiene un valor. Por ejemplo un auto (objeto principal), tiene diferentes propiedades, marca: subaru, modelo: impreza, color: negro, motor: 1.8, etc. Estas propiedades deben ir encerradas con {} y cada propiedad se separa con coma (,) de la otra propiedad.
+	* Propiedades: son las características de un objeto a tratar, donde cada una tiene una descripción o valor, estas pueden ser palabras, números, funciones u otro objeto.
+	* Métodos: se le llama método cuando asignamos una función como valor de una propiedad.
+	* Bucle `for…in`: Es la forma que se usa para recorrer todas las propiedades dentro de un objeto.
+	* Notación de puntos vs notación de corchetes: son dos formas de acceder a las propiedades de un objeto. Cumplen ambas la misma función. La notación de puntos es mas facil de leer y de escribir pero tiene algunas limitaciones, para las variables se debe utilizar la notación de corchetes.

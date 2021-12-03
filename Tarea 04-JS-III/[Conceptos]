@@ -1,0 +1,3 @@
+Un Array es una lista de elementos, que pueden ser de un mismo tipo o todos diferentes, y cada uno ocupa una 
+posición especifica en lista. Estos elementos pueden ser agregados o eliminados en cualquier momento. 
+El tamaño del Array no tiene un límite.
